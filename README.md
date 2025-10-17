@@ -2,7 +2,7 @@
 Welcome to the repo of "A way of mine" game. This whole project is a bit of what i called a crazy experiment. the idea is to see if it's possible to build a complete, story driven indie game using the help of an AI (of course with hand touch).
 
 
-#What the story’s about
+# What the story’s about
 
 there’s this small twilight village called glimmerbrook. it’s always kind of in between night and day, and the only thing that keeps it alive is this crystal called the heartlight. it glows based on people’s emotions — joy makes it brighter, sadness makes it dim.
 
